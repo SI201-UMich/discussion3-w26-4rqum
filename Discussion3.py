@@ -2,8 +2,12 @@ import math
 
 class Rectangle():
     # Create the constructor "__init__" method
+    def __init__(self, width, height):
+        self.width = width
+        self.height = height
 
     # YOUR CODE HERE
+    # Update: Added the constructor.
 
 
 
